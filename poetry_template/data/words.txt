@@ -1,0 +1,9 @@
+ARTICLE:the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,a,a,a,a,a,a,an,an
+CONJUNCTION:and,and,and,and,and,and,and,but,but,or,if,if,that,that,that,that,that,wherein
+PRONOUN:I,I,I,I,I,I,I,we,we,we,they,he,he,it,it,it,it,me,me,them,us,which,which,that,that
+POSSESSIVEPRONOUN:his,our,him,its,its,our
+PREPOSITION:on,to,to,from,from,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,in,in,in,in,in,in,at,at,by,from,from,into,like
+NOUN:age,blood,case,chain,contents,cycle,death,direction,each,eons,glimpse,glimpse,glimpses,grandeur,human,ignorance,inability,incidents,infinity,island,item,knowledge,light,link,mad,mind,newspaper,notes,notes,one,optimism,part,peace,position,professor,professor,race,reality,revelation,safety,sciences,seas,someday,survivals,terms,Theosophists,thing,things,truth,vistas,voyage,world,world
+ADJECTIVE:accidental,awesome,black,bland,cosmic,dark,dead,dissociated,dread,else,far,forbidden,frightful,hideous,human,little,masked,merciful,midst,most,new,old,own,placid,silent,single,strange,such,sudden,terrifying,transient
+ADVERB:all,all,certainly,either,hitherto,knowingly,never,no,not,not,not,not,out,out,so,there,therein,this,this,together,together,too,up,when,when
+VERB:accomplish,came,chills,correlate,destroyed,dream,flashed,flee,form,freeze,go,guessed,had,harmed,have,have,have,have,hinted,hope,intended,is,is,keep,knew,live,live,maddens,meant,open,piecing,piecing,piecing,regarding,seized,separated,shall,shall,should,straining,supply,think,think,think,was,will,will,would

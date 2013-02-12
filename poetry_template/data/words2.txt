@@ -1,0 +1,10 @@
+ARTICLE:the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,the,a,a,a,if
+CONJUNCTION:and,and,and,and,and,and,and,and,and,and,and,and,and,both,so,where,that,that,that,that
+PRONOUN:he,he,they,they,they,they,me,he,you,you,one,them,them,who
+POSSESSIVEPRONOUN:his,his,his,his,their,their,their,their,their,their,my,your,your
+NOUN:arc,band,beard,beards,beards,bits,blade,blade,blade,blood,blood,bones,brothers,brothers,Cimmeria,clangor,Conan,Conan,corpses,corselet,corselets,dead,death-throes,desolation,drifts,each,face,face,feet,feet,figures,fire,forms,frost-giant,ghosts,god,hand,heads,heart,Heimdul,Heimdul,helmet,helmets,hilt,ice-fields,invocation,locks,mail,man,marks,men,men,note,name,plain,plains,scales,shambles,Ymir,world,warrior,warrior,warrior-race,Vanaheim,Vanaheim,vision,Valhalla,tigers,sword,sword,swords,swords,other,point,power,shields,shoulders,shouting,silence,silence,silver,sky,slaughter,snow,snow,sparks,strokes,sun,tryst
+POSSESSIVENOUN:Conan's,Wulfhere's
+ADJECTIVE:battered,beardless,black-haired,black-maned,bleak,blue,brass,broad,broken,broken,dead,dead,deathly,fierce,frosty,golden,gone,grimly,helmeted,horned,humming,hushed,illimitable,last,last,mail-clad,nerveless,pale,red,red,red,red,red,red-haired,red-stained,sharp,only,other,shivering,singing,snow-covered,sunlit,tall,two,white,utter
+VERB:drawn,brooding,built,came,come,crashed,died,died,dinted,dried,fall,fallen,filled,flashed,glared,glittered,gripped,growled,had,had,know,lay,lay,leaped,may,met,moved,reeled,rent,roared,said,might,sheens,showed,staggered,stained,stood,struck,tell,tell,thrust,tilted,tore,was,was,was,was,was,were,were,were,were,will
+ADVERB:as,as,as,as,all,away,blindingly,like,not,slowly,so,upward,yet
+PREPOSITION:at,at,at,of,of,of,of,of,of,of,of,of,of,of,of,with,with,to,to,to,to,behind,across,in,in,in,in,in,in,in,in,as,as,on,on,on,on,from,from,around,into,over,through,through,through,before,but,but,back
